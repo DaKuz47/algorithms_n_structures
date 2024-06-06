@@ -1,0 +1,4 @@
+Word1 10
+Word2 5
+Word3 19
+Word4 23
